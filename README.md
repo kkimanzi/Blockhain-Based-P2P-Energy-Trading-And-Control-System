@@ -3,6 +3,9 @@
 - To propose a blockchain-enabled P2P market model of generated PV energy.
 - To propose a dual power source controller for switching power between the internal SHS battery and external grid connection.
 
+## Blockchain Used
+Multichain
+
 ## Design
 **Information Flow**
 	![transaction-flow-1](https://github.com/kkimanzi/Blockhain-Based-P2P-Energy-Trading-And-Control-System/assets/62201012/f8ce34ec-0fa5-4505-9887-f9a40f933e91)
