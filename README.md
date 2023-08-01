@@ -1,5 +1,5 @@
 # Blockhain-Based-P2P-Energy-Trading-And-Control-System
-##Objectives
+## Objectives
 - To propose a blockchain-enabled P2P market model of generated PV energy.
 - To propose a dual power source controller for switching power between the internal SHS battery and external grid connection.
 
